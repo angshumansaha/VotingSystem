@@ -1,3 +1,3 @@
 # VotingSystem
-Online image based login votung system
+Online image based login voting system
 Language: Java. Database: MySql
